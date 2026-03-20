@@ -1,0 +1,8 @@
+{
+    "name": "Bank",
+    "description": "Банковские счета на PHP и MySQL",
+    "type": "project",
+    "require": {
+        "php": ">=7.2"
+    }
+}
